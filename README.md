@@ -93,7 +93,6 @@ Password: password
 - [x] SQLite-backed chat history
 - [x] Multi-chat dropdown with new chat creation
 - [x] LM Studio LLM support
-- [ ] Signup functionality (in progress)
 - [ ] UI/UX polish and theme toggling
 - [ ] Optional LLM parameter tuning (temperature, model switch)
 

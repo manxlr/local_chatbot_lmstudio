@@ -1,6 +1,6 @@
 # 🤖 local_chatbot_lmstudio
 
-A privacy-first, aesthetically pleasing chatbot interface built with **Streamlit**, powered by locally hosted LLMs via **LM Studio**. It features full user authentication, chat history management, and multi-session support — all running **100% locally** with no internet dependency for LLM generation.
+A privacy-first, aesthetically pleasing chatbot interface built with **Streamlit**, powered by locally hosted LLMs via **LM Studio**. It features full user authentication, chat history management, and multi-session support — all running **100% locally** with no internet dependency.
 ![Main GUI](Assets/image1.png)
 ---
 
